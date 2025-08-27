@@ -4,4 +4,8 @@ public class Funcionario extends Pessoa {
     public void falar(){
         System.out.println("Oi, eu sou um funcionário");
     }
+
+    public void escutar(){
+        System.out.println("Trabalhe cabra safado");
+    }
 }

@@ -6,5 +6,8 @@ public class Main {
 
         p.falar();
         f.falar();
+
+        p.escutar();
+        f.escutar();
     }
 }
